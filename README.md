@@ -126,8 +126,6 @@ A responsive portfolio showcasing my skills, projects, and development experienc
 
 An e-commerce web application deployed on Vercel.
 
-**Live Demo:** [View GoShop](https://nextjs-ecommerce-tau-eight.vercel.app/)
-
 <br/>
 
 <a href="https://nextjs-ecommerce-tau-eight.vercel.app/">
